@@ -184,6 +184,6 @@ Customer_Behavior_Dashboard.pbit
 
 5. View Report & Presentation
 
-Report → /Report/Customer-Shopping-Behaviour-Analysis-Report.pdf
+Report →Customer-Shopping-Behaviour-Analysis-Report.pdf
 
-Presentation → /Presentation/Customer-Shopping-Behavior-Analysis.pdf
+Presentation →Customer-Shopping-Behavior-Analysis.pdf
