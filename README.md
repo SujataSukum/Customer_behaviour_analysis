@@ -160,14 +160,12 @@ Install libraries:
 
 pip install pandas numpy matplotlib seaborn
 
-
 Open Jupyter:
 
 jupyter notebook
 
-
 Run:
-analysis.ipynb
+customer_shopping_behaviour_analysis.ipynb
 
 3. Load Data into SQL
 
@@ -182,7 +180,7 @@ Run SQL queries from sql_queries.sql
 4. View Power BI Dashboard
 
 Open the file:
-Customer_Behavior_Dashboard.pbix
+Customer_Behavior_Dashboard.pbit
 
 5. View Report & Presentation
 
