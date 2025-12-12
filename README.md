@@ -1,6 +1,5 @@
 📊 Customer Shopping Behavior Analysis – Data Analytics Project
 
-
 ⭐ Overview
 This project focuses on end-to-end data analytics using Python, SQL, and Power BI.
 It covers the complete workflow of a real-world analytics pipeline:
@@ -115,7 +114,7 @@ A formal project report was developed (Word/PDF) containing:
 
 Project overview
 
-dataset summary
+Dataset summary
 
 Exploratory data analysis using python
 
