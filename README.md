@@ -113,15 +113,17 @@ The dashboard helps visualize trends and interpret customer behavior easily.
 
 A formal project report was developed (Word/PDF) containing:
 
-Problem statement
+Project overview
 
-Methodology
+dataset summary
 
-Insights
+Exploratory data analysis using python
 
-Visuals
+Data Analysis using SQL
 
-Conclusions
+Visualization 
+
+Business Recommendation
 
 7. Presentation (Gamma)
 
